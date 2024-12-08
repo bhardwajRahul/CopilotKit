@@ -6,12 +6,12 @@ assets
 .vscode
 Dockerfile
 **/.venv
-**/node_modules
-**/langgraph.json
 **/.env
 **/.vscode
 infra
 docs
 **/.turbo
 **/.husky
-**/.next
+
+**/node_modules
+**/.langgraph_api
