@@ -1,5 +1,51 @@
 # ui
 
+## 1.9.0
+
+### Patch Changes
+
+- 54cae30: - fix(react-core): allow custom toolChoice in forwardedParameters to override default
+  - fix: move react-dom to peerDependencies in @copilotkit/react-textarea
+  - feat: add amazon bedrock adapter support
+  - @copilotkit/runtime-client-gql@1.9.0
+  - @copilotkit/shared@1.9.0
+
+## 1.9.0-next.2
+
+### Patch Changes
+
+- @copilotkit/runtime-client-gql@1.9.0-next.2
+- @copilotkit/shared@1.9.0-next.2
+
+## 1.8.15-next.1
+
+### Patch Changes
+
+- 54cae30: - fix(react-core): allow custom toolChoice in forwardedParameters to override default
+  - fix: move react-dom to peerDependencies in @copilotkit/react-textarea
+  - feat: add amazon bedrock adapter support
+  - @copilotkit/runtime-client-gql@1.8.15-next.1
+  - @copilotkit/shared@1.8.15-next.1
+
+## 1.8.15-next.0
+
+### Patch Changes
+
+- @copilotkit/runtime-client-gql@1.8.15-next.0
+- @copilotkit/shared@1.8.15-next.0
+
+## 1.8.14
+
+### Patch Changes
+
+- 9cf1fda: - fix append follow-up when actions disable followUp
+  - Create stupid-nails-travel.md
+  - fixup
+- 9cf1fda: - fix append follow-up when actions disable followUp
+- Updated dependencies [34a78d8]
+  - @copilotkit/shared@1.8.14
+  - @copilotkit/runtime-client-gql@1.8.14
+
 ## 1.8.14-next.5
 
 ### Patch Changes
